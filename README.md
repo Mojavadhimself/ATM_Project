@@ -8,8 +8,7 @@ This project is a simulation of an Automated Teller Machine (ATM) that allows us
 - Check account balance
 - Withdraw money
 - Deposit money
-- Transaction history tracking
-- Secure session handling
+- Change password
 
 ## Technologies Used
 - Programming Language: Python
